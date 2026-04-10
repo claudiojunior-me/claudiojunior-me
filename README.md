@@ -17,9 +17,12 @@
 
 Sou um desenvolvedor web apaixonado por tecnologia e inovação, com experiência em construir aplicações modernas e escaláveis. Atualmente trabalho no **Luizalabs** — o laboratório de inovação da Magazine Luiza — desenvolvendo soluções que impactam milhões de usuários.
 
-- 🏢 Trabalhando no **Luizalabs** (Magazine Luiza)
-- 🌱 Sempre aprendendo e explorando novas tecnologias
-- 💬 Me pergunte sobre **JavaScript, React, Node.js e arquitetura de software**
+Nos últimos tempos, tenho mergulhado no universo de **Inteligência Artificial**, explorando como integrar LLMs e ferramentas de IA em produtos reais.
+
+- 🏢 **Luizalabs** — Frontend Developer (Magazine Luiza)
+- 📱 Experiência com **React Native** para apps mobile
+- 🤖 Explorando **IA generativa** e integração com LLMs
+- 🏗️ Especialista em arquitetura **BFF** e sistemas distribuídos
 
 ---
 
@@ -29,9 +32,11 @@ Sou um desenvolvedor web apaixonado por tecnologia e inovação, com experiênci
 
 **Frontend**
 
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 
